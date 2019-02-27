@@ -1,0 +1,14 @@
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\bin\Debug\netcoreapp2.2\Wallet.API.deps.json
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\bin\Debug\netcoreapp2.2\Wallet.API.runtimeconfig.json
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\bin\Debug\netcoreapp2.2\Wallet.API.runtimeconfig.dev.json
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\bin\Debug\netcoreapp2.2\Wallet.API.dll
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.csprojAssemblyReference.cache
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.csproj.CoreCompileInputs.cache
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.RazorAssemblyInfo.cache
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.RazorAssemblyInfo.cs
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.AssemblyInfoInputs.cache
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.AssemblyInfo.cs
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.RazorTargetAssemblyInfo.cache
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\bin\Debug\netcoreapp2.2\Wallet.API.pdb
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.dll
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.pdb
