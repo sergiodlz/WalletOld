@@ -13,7 +13,7 @@ namespace Wallet.API
                 .MinimumLevel.Debug()
                 .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
                 .Enrich.FromLogContext()
-                .WriteTo.File("WarningLog_.txt", rollingInterval: RollingInterval.Day, 
+                .WriteTo.File("Logs/Log_.txt", rollingInterval: RollingInterval.Day, 
                     retainedFileCountLimit: 62, rollOnFileSizeLimit: true, 
                     fileSizeLimitBytes: 2000000, shared: true)
                 .CreateLogger();
