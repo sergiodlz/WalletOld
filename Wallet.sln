@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wallet.API", "Wallet.API\Wallet.API.csproj", "{6827893A-AF5B-45F6-AD15-FC47A26971AA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wallet.DATA", "Wallet.DATA\Wallet.DATA.csproj", "{A719183A-EC9F-4600-901E-2D8CE41BD00A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6827893A-AF5B-45F6-AD15-FC47A26971AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6827893A-AF5B-45F6-AD15-FC47A26971AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6827893A-AF5B-45F6-AD15-FC47A26971AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A719183A-EC9F-4600-901E-2D8CE41BD00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A719183A-EC9F-4600-901E-2D8CE41BD00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A719183A-EC9F-4600-901E-2D8CE41BD00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A719183A-EC9F-4600-901E-2D8CE41BD00A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
