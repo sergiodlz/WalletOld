@@ -1,0 +1,6 @@
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.SERVICES\bin\Debug\netcoreapp2.2\Wallet.SERVICES.deps.json
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.SERVICES\bin\Debug\netcoreapp2.2\Wallet.SERVICES.dll
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.SERVICES\obj\Debug\netcoreapp2.2\Wallet.SERVICES.csprojAssemblyReference.cache
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.SERVICES\obj\Debug\netcoreapp2.2\Wallet.SERVICES.csproj.CoreCompileInputs.cache
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.SERVICES\obj\Debug\netcoreapp2.2\Wallet.SERVICES.AssemblyInfoInputs.cache
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.SERVICES\obj\Debug\netcoreapp2.2\Wallet.SERVICES.AssemblyInfo.cs
