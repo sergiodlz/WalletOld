@@ -24,6 +24,8 @@ namespace Wallet.API
             services.ConfigureIISIntegration();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.ConfigureDBConnection(Configuration);
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)

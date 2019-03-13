@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
+using Wallet.DATA;
 
 namespace Wallet.API.Controllers
 {
@@ -9,10 +10,12 @@ namespace Wallet.API.Controllers
     public class TestController : ControllerBase
     {
         private ILogger<TestController> _logger;
+        private WalletContext _context;
 
-        public TestController(ILogger<TestController> logger)
+        public TestController(ILogger<TestController> logger, WalletContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         // GET api/values

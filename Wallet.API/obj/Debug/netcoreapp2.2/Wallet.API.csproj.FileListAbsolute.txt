@@ -12,3 +12,6 @@ d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\ne
 d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\bin\Debug\netcoreapp2.2\Wallet.API.pdb
 d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.dll
 d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.pdb
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\bin\Debug\netcoreapp2.2\Wallet.DATA.dll
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\bin\Debug\netcoreapp2.2\Wallet.DATA.pdb
+d:\sdelahoz\Documents\Visual Studio 2017\Projects\Wallet\Wallet.API\obj\Debug\netcoreapp2.2\Wallet.API.csproj.CopyComplete

@@ -2,7 +2,7 @@
 
 namespace Wallet.DATA.Entities
 {
-    public class SubCategory : EntityBase<Guid>
+    public class SubCategory : EntityBase
     {
         public string Name { get; set; }
 

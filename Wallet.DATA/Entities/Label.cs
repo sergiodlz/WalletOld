@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Wallet.DATA.Entities
 {
-    public class Label : EntityBase<Guid>
+    public class Label : EntityBase
     {
         public string Name { get; set; }
 

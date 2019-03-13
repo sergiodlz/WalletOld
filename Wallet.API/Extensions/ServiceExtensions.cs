@@ -1,5 +1,8 @@
 ﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Wallet.DATA;
 
 namespace Wallet.API.Extensions
 {
@@ -23,6 +26,12 @@ namespace Wallet.API.Extensions
             {
 
             });
+        }
+
+        public static void ConfigureDBConnection(this IServiceCollection services, IConfiguration Configuration)
+        {
+            services.AddDbContext<WalletContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
     }
 }

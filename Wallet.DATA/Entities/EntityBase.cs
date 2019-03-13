@@ -2,9 +2,9 @@
 
 namespace Wallet.DATA.Entities
 {
-    public class EntityBase<T>
+    public class EntityBase
     {
-        public T Id { get; set; }
+        public Guid Id { get; set; }
 
         public bool Enable { get; set; }
 

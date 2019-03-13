@@ -2,7 +2,7 @@
 
 namespace Wallet.DATA.Entities
 {
-    public class Account : EntityBase<Guid>
+    public class Account : EntityBase
     {
         public string Name { get; set; }
 

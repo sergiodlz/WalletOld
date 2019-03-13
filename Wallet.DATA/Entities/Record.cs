@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Wallet.DATA.Entities
 {
-    public class Record : EntityBase<Guid>
+    public class Record : EntityBase
     {
         public DateTime Date { get; set; }
 
